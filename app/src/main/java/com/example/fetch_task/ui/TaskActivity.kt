@@ -71,7 +71,7 @@ class TaskActivity : AppCompatActivity() {
 
     private fun onButtonPressed() {
         val intent = Intent(this , HomeActivity::class.java )
-        startActivity(intent , ActivityOptions.makeSceneTransitionAnimation(this).toBundle())
+        startActivity(intent)
         finish()
     }
 
