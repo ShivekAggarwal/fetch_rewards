@@ -23,15 +23,15 @@ This is an Android application developed using Kotlin that demonstrates the use 
 - **Coroutines**: For asynchronous operations
 
 ## Screenshots
-<img src="Screenshot1.png" width="300">  <img src="Screenshot2.png" width="300" > 
+<img src="Screenshots/Screenshot1.png" width="300">  <img src="Screenshots/Screenshot2.png" width="300" > 
 
-<img src="Screenshot4.png" width="300">  <img src="Screenshot3.png" width="300"> 
+<img src="Screenshots/Screenshot4.png" width="300">  <img src="Screenshots/Screenshot3.png" width="300"> 
 
-<img src="Screenshot5.png" width="300" >
+<img src="Screenshots/Screenshot5.png" width="300" >
 
 ## App Architecture
 
-<img src="Screenshot6.png" >
+<img src="Screenshots/Screenshot6.png" >
 
 ## App Walk Through Video
 
