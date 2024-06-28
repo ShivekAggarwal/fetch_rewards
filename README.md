@@ -23,7 +23,7 @@ This is an Android application developed using Kotlin that demonstrates the use 
 - **Coroutines**: For asynchronous operations
 
 ## Screenshots
-<img src="https://drive.google.com/drive/u/0/folders/1qNMbd6HiPrgwDAcW9vSb6afWHzwYkvTn" width="300">  <img src="Screenshot2.jpeg" width="300" > 
+<img src="Screenshot1.jpeg" width="300">  <img src="Screenshot2.jpeg" width="300" > 
 
 <img src="Screenshot4.jpeg" width="300">  <img src="Screenshot3.jpeg" width="300"> 
 
@@ -32,6 +32,10 @@ This is an Android application developed using Kotlin that demonstrates the use 
 ## App Architecture
 
 <img src="Screenshot6.png" >
+
+## App Walk Through Video
+
+[![YouTube](http://i.ytimg.com/vi/FCv6UtUe7BE/hqdefault.jpg)](https://www.youtube.com/watch?v=FCv6UtUe7BE)
 
 
 ## Getting Started
