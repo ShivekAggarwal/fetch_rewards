@@ -15,7 +15,7 @@ class HomeActivity : AppCompatActivity() {
         val button = findViewById<Button>(R.id.TaskButton)
         button.setOnClickListener{
             val intent = Intent(this , TaskActivity::class.java )
-            startActivity(intent , ActivityOptions.makeSceneTransitionAnimation(this).toBundle())
+            startActivity(intent)
             finish()
     }
     }
