@@ -1,0 +1,56 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Container for the ConstraintLayout that covers 60% of the height -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:background="@drawable/background_gradient">
+
+        <ImageView
+            android:id="@+id/imageViewLogo"
+            android:layout_width="0dp"
+            android:contentDescription="im"
+            android:layout_height="0dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/logo"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="0.5"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:layout_constraintWidth_percent="0.55" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- LinearLayout to cover the remaining 40% of the height with a button -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:id="@+id/TaskButton"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_gradient"
+            android:text="@string/main_buttonText"
+            android:textColor="#300d38"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:layout_gravity="center" />
+
+    </LinearLayout>
+
+</LinearLayout>
