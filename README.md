@@ -23,7 +23,8 @@ This is an Android application developed using Kotlin that demonstrates the use 
 - **Coroutines**: For asynchronous operations
 
 ## Screenshots
-
+<img src="Screenshot1.jpeg" width="300">
+<img src="Screenshot2.jpeg" width="300">
 ![Screenshot1](Screenshot1.jpeg)
 ![Screenshot2](Screenshot2.jpeg)
 ![Screenshot2](Screenshot3.jpeg)
