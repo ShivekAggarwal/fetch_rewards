@@ -26,6 +26,10 @@ This is an Android application developed using Kotlin that demonstrates the use 
 <img src="Screenshot1.jpeg" width="300">  <img src="Screenshot2.jpeg" width="300" > <img src="Screenshot3.jpeg" width="300">
 
 <img src="Screenshot4.jpeg" width="300">  <img src="Screenshot5.jpeg" width="300" >
+
+## App Architecture
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
