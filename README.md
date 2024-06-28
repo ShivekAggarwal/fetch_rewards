@@ -24,8 +24,8 @@ This is an Android application developed using Kotlin that demonstrates the use 
 
 ## Screenshots
 
-![Screenshot1](screenshot1.png)
-![Screenshot2](screenshot2.png)
+![Screenshot1](screenshot1.jpeg)
+![Screenshot2](screenshot2.jpeg)
 
 ## Getting Started
 
